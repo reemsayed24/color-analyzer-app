@@ -1,5 +1,5 @@
 """
-🎨 Advanced Color Analyzer - Streamlit Dashboard with Image Preprocessing
+🎨 Color Analyzer By ReeM - Streamlit Dashboard with Image Preprocessing
 =========================================================================
 Beautiful, interactive color analysis dashboard with advanced preprocessing
 """
@@ -552,7 +552,7 @@ def main():
     # Header
     st.markdown("""
     <div class="main-header">
-        <h1>🎨 Advanced Color Analyzer</h1>
+        <h1>🎨Color Analyzer By ReeM</h1>
         <p>Extract and analyze dominant colors with intelligent preprocessing</p>
     </div>
     """, unsafe_allow_html=True)
@@ -853,4 +853,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
